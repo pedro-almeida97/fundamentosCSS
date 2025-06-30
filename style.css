@@ -1,3 +1,7 @@
-.border {
-  border-bottom: solid red 5px;
+div,
+span {
+  border: solid;
+  min-height: 200px;
+  max-height: 300px;
+  height: 1500px;
 }
