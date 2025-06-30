@@ -1,3 +1,7 @@
+body {
+  background-color: #fa9;
+}
+
 mark {
   color: red;
   text-transform: uppercase;
@@ -25,6 +29,7 @@ span {
   width: 200px;
   height: 100px;
   border: solid;
+  background-color: blueviolet;
 }
 
 .padding {
