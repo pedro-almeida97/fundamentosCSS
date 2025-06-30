@@ -1,5 +1,8 @@
 body {
   background-color: #fa9;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
 
 mark {
