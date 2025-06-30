@@ -1,3 +1,12 @@
+mark {
+  color: red;
+  text-transform: uppercase;
+}
+
+a {
+  text-decoration: line-through red dotted;
+}
+
 p {
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
     'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
