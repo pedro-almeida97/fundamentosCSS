@@ -1,18 +1,3 @@
-div {
-  border: solid;
-  width: 200px;
-  height: 200px;
-
-  padding: 20px;
-  margin: 20px;
-}
-
-span {
-  border: 10px solid;
-
-  width: 200px;
-  height: 200px;
-
-  margin: 20px;
-  padding: 20px;
+.border {
+  border-bottom: solid red 5px;
 }
